@@ -1,0 +1,16 @@
+# Ignorar datos
+data/
+*.parquet
+*.lef
+*.pdf
+*.zip
+
+# Ignorar archivos de sistema y entorno
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+venv/
+.idea/
+.vscode/
